@@ -1,0 +1,12 @@
+{
+  "name": "pterodactyl-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "author": "Sheepe",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.24",
+    "axios": "^0.19.2"
+  }
+}
