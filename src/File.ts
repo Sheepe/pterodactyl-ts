@@ -1,10 +1,7 @@
 
-import { FileManager, FileList } from "./FileManager";
-import { Client } from "./Client";
 import { APIRequest } from "./Request";
 import { PterodactylAPIError } from "./PterodactylAPIError";
 import { Server } from "./Server";
-import { report } from "process";
 
 export type FileAccess = {
     read: boolean
